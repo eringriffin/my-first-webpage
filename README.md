@@ -16,6 +16,7 @@ _These pages are an exercise in creating HTML and CSS content, including block a
 ## Technologies Used
 
 _HTML_
+_CSS_
 
 ### License
 

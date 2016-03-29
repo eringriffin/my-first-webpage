@@ -1,0 +1,45 @@
+body {
+  background-color: #ffff99;
+  font-family: fantasy;
+  font-style: normal;
+  line-height: 20px;
+  font-weight: lighter;
+}
+
+h1 {
+  color: #003366;
+  text-align: center;
+  font-size: 35px;
+}
+
+h2 {
+  color: #006699;
+  text-align: center;
+  font-size: 25px;
+}
+
+h3 {
+  color: #00cccc;
+  font-size: 20px;
+  text-align: left;
+}
+
+p {
+  color: #0099ff;
+  font-size: 18px;
+  text-align: center;
+}
+
+ul {
+  color: #003366;
+  text-align: justify;
+  font-size: 18px;
+  text-align: left;
+}
+
+ol {
+    color: #003366;
+    text-align: justify;
+    font-size: 18px;
+    text-align: left;
+  }

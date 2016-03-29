@@ -1,0 +1,35 @@
+body {
+  background-color: #bffafe;
+  font-family: fantasy;
+  font-weight: lighter;
+  line-height: 150%;
+}
+
+h1 {
+  text-align: center;
+  color: #0caf94;
+  font-size: 40px;
+}
+
+h2 {
+  text-align: center;
+  color: #aa81fb;
+  font-size: 35px;
+}
+
+h3 {
+  color: #2f8cd2;
+  font-size: 30px;
+
+}
+
+p {
+  color: #0caf94;
+  font-size: 20px;
+  text-align: justify;
+}
+
+ul {
+  color: #2f8cd2;
+  font-size: 18px;
+}

@@ -1,0 +1,35 @@
+body {
+  background-color: #ff6767;
+  font-family: monospace;
+  font-weight: bolder;
+  font-style: oblique;
+  line-height: normal;
+}
+
+h1 {
+  color:#ff1919;
+  text-align: center;
+  font-size: 50px;
+}
+
+
+h2 {
+  color: #16a092;
+  text-align: center;
+  font-size: 40px;
+}
+
+h3 {
+  color: #ff1919;
+  font-size: 30px;
+}
+
+p {
+  color: #323232;
+  font-size: 20px;
+}
+
+ul {
+  color: #16a092;
+  font-size: 18px;
+}
