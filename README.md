@@ -1,12 +1,12 @@
 # _My First Web Pages_
 
-#### _HTML exercise for Epicodus, 03.28.2016_
+#### _HTML and CSS exercise for Epicodus, 03.28.2016_
 
 #### By _**Erin Griffin**_
 
 ## Description
 
-_These pages are an exercise in creating HTML content, including block and inline elements, photos, and links._
+_These pages are an exercise in creating HTML and CSS content, including block and inline elements, photos, links, and creating CSS stylesheets._
 
 
 
